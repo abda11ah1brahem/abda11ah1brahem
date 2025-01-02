@@ -21,8 +21,8 @@ Welcome to my GitHub! I am a **Data Analyst** with a strong foundation in **stat
 ## 📈 Projects
 Here are some highlights of my recent work:
 - **Sales Performance Dashboard**: An interactive Power BI dashboard analyzing sales metrics and trends.
+- **Retail Sales Analysis Dashboard**: Developed a Power BI dashboard to track key performance metrics for retail sales, including revenue trends, top-performing categories, and regional insights.  
 - **HR Analytics Dashboard**: Insights into employee satisfaction, performance, and turnover rates.
-- **Mobile & Internet Consumption Analysis**: A data-driven project highlighting usage trends.
 
 ## 🚀 Current Focus
 I am currently working on:
