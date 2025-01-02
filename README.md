@@ -1,16 +1,39 @@
-## Hi there 👋
+# Abdallah Ibrahem
+**Data Analyst | Power BI Developer**
 
-<!--
-**abda11ah1brahem/abda11ah1brahem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I am a **Data Analyst** with a strong foundation in **statistics** and **computer science**, recently graduated from Helwan University. My work focuses on **data analysis, visualization, and ETL processes**, leveraging tools like **SQL, Power BI**, and **Python** to extract actionable insights and solve complex problems.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **Bachelor's Degree in Computer Science and Statistics**  
+  Faculty of Science, Helwan University
+                2020 - 2024
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Overall Grade** : Very Good
+
+## 💼 Skills
+- **Data Analysis & Visualization**: Power BI, Excel, Python (Pandas, Matplotlib, Seaborn)  
+- **Database Management**: SQL (including ETL processes)  
+- **Reporting**: Creating dashboards and reports for decision-making  
+
+## 🔗 Portfolio
+[Check out my Portfolio](https://mavenanalytics.io/profile/f85113b0-f001-70e1-e83d-c6507ef4db54).
+
+## 📈 Projects
+Here are some highlights of my recent work:
+- **Sales Performance Dashboard**: An interactive Power BI dashboard analyzing sales metrics and trends.
+- **HR Analytics Dashboard**: Insights into employee satisfaction, performance, and turnover rates.
+- **Mobile & Internet Consumption Analysis**: A data-driven project highlighting usage trends.
+
+## 🚀 Current Focus
+I am currently working on:
+- Enhancing my SQL skills (including T-SQL)  
+- Building advanced dashboards with Power BI  
+- Exploring machine learning and predictive analytics  
+
+## 📫 Get in Touch
+Feel free to connect with me via:  
+- **GitHub**: [My GitHub Profile](https://github.com/abda11ah1brahem)  
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/abdallah-ibrahem-81589a1b4/)  
+
+---
+"Transforming data into meaningful insights."
